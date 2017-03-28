@@ -1,0 +1,8 @@
+Kapitel 1
+Object-Oriented Analysis and Design är OOA/D förkortat.
+UML är Unified Modeling language.
+
+Det är viktigt att ha i åtanke med saker som "Responsibilities" för klasser. Hur ska objekt "interact". Vilka klasser ska göra vad?
+
+All softvara design är starkt relaterat till "prerequsite activity of requirements analysis", vilket innehåller "use cases". 
+
